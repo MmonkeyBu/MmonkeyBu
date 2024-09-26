@@ -2,7 +2,7 @@
 
 ## :woman_technologist: &nbsp;Sobre mim :
 
-Eu sou um desenvolvedor Front-end  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> do Brasil.
+Eu sou um desenvolvedor   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> do Brasil.
 
 - 🔭 Estudo Engenharia de Computação no IFPB de Campina Grande.
 
