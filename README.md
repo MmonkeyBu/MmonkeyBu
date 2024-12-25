@@ -21,8 +21,7 @@ Eu sou um desenvolvedor   <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUÁRIO&layout=compact&bg_color=transparent&title_color=blue&text_color=black)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MmonkeyBu&layout=compact&bg_color=transparent)
 
 
 <img src="https://profile-readme-generator.com/assets/snake.svg">
