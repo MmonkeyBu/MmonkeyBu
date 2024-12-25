@@ -16,7 +16,7 @@ Eu sou um desenvolvedor   <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
 </p>
 
 ---
