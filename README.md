@@ -23,6 +23,5 @@ Eu sou um desenvolvedor   <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ## Linguagens Mais Utilizadas 
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=MmonkeyBu)](https://github.com/MmonkeyBu/github-readme-stats))
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://profile-readme-generator.com/assets/snake.svg">
