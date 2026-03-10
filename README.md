@@ -6,7 +6,7 @@ Eu sou um desenvolvedor   <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - 🔭 Estudo Engenharia de Computação no IFPB de Campina Grande.
 
- - 📫 Como se comunicar comigo: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-PabloDaniel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-daniel-b1a6a7277/)
+ - 📫 Como se comunicar comigo: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-PabloDaniel-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
