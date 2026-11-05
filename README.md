@@ -12,7 +12,7 @@
 
   <!-- Badges de Contato e Portfólio -->
   <p align="center">
-    <a href="https://portfolio-terminal-kohl.vercel.app/" target="_blank">
+    <a href="[https://portfolio-terminal-kohl.vercel.app/](https://portfolio-terminal-kohl.vercel.app/)" target="_blank">
       <img src="https://img.shields.io/badge/PORTF%C3%93LIO-MINITRUE__OS-ffb000?style=for-the-badge&logo=gnometerminal&logoColor=black" alt="Portfólio" />
     </a>
     <a href="https://www.linkedin.com/in/pablo-daniel-b1a6a7277/" target="_blank">
